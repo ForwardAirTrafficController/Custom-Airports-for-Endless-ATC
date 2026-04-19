@@ -14,7 +14,9 @@
     - Aerodrome is currently going under construction rwy 11L/29R will be extended.
 - For LTAE;
    - Radar vectoring needed for departures and arrivals
- 
+- TMA is extended by few nautical miles.
+- Prohibitied and Restricted areas added Danger areas not added by preference.
+- Attention to LTR-9
   
    
 
