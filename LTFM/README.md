@@ -18,9 +18,9 @@
     
 ## Airspace Structure
 
-Istanbul TMA is a very complex one. LTFM will have capability of 4 simultaneous departures at the same time with new runway 09 which is currently included at the file. File, accurately represents the SID configurations for all airports. 
+Istanbul TMA is a very complex one. LTFM will have capability of 4 simultaneous departures at the same time with new runway 09 which is currently included at the file with official SIDs.  
 
-For the STARs, LTFM has up to 4 different STAR for same beacon. All of these are implemented. 
+For the STARs, LTFM has up to 4 different STAR for same beacon. All of these are implemented and all STARs for LTFJ and LTBA implemented also all Fixs are present for the use. 
 
 ## Notes & Known Limitations
 
